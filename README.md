@@ -1,0 +1,1 @@
+The code simplely takes directory path from user and returns directory tree structure.
